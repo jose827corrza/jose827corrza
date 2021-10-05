@@ -2,7 +2,7 @@ import React from 'react'
 import './Card.css'
 
 
-function Card({ title, imageSource, url, texto }) {
+function Card({ title, imageSource, url, text }) {
     return (
         <div className="card text-center bg-dark h-100 animate__animated animate__fadeInUp">
             <div className="overflow">
@@ -12,9 +12,9 @@ function Card({ title, imageSource, url, texto }) {
                 <h4 className="card-title">{title}</h4>
                 <p className="card-text text-secondary">
                     {
-                        texto ? texto : 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus dolores excepturi cupiditate architecto ut quidem maiores. Porro numquam aliquam rerum, dolorum ea optio necessitatibus commodi ab repellat quis, cumque quasi!'
+                        text
                     }</p>
-                <a href={url} className="btn btn-outline-secondary rounded-0" target="_blank">Go to...</a>
+                <a href={url} className="btn btn-outline-secondary rounded-0" target="_blank" rel="noreferrer">Go to...</a>
             </div>
         </div>
     )
