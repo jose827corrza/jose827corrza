@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jose827corrza/static/css/main.8f3ee199.chunk.css",
+    "main.js": "/jose827corrza/static/js/main.cd6e5c02.chunk.js",
+    "main.js.map": "/jose827corrza/static/js/main.cd6e5c02.chunk.js.map",
+    "runtime-main.js": "/jose827corrza/static/js/runtime-main.26d1997f.js",
+    "runtime-main.js.map": "/jose827corrza/static/js/runtime-main.26d1997f.js.map",
+    "static/css/2.4f5f7126.chunk.css": "/jose827corrza/static/css/2.4f5f7126.chunk.css",
+    "static/js/2.6f4ac67d.chunk.js": "/jose827corrza/static/js/2.6f4ac67d.chunk.js",
+    "static/js/2.6f4ac67d.chunk.js.map": "/jose827corrza/static/js/2.6f4ac67d.chunk.js.map",
+    "static/js/3.a9c4ad1e.chunk.js": "/jose827corrza/static/js/3.a9c4ad1e.chunk.js",
+    "static/js/3.a9c4ad1e.chunk.js.map": "/jose827corrza/static/js/3.a9c4ad1e.chunk.js.map",
+    "index.html": "/jose827corrza/index.html",
+    "static/css/2.4f5f7126.chunk.css.map": "/jose827corrza/static/css/2.4f5f7126.chunk.css.map",
+    "static/css/main.8f3ee199.chunk.css.map": "/jose827corrza/static/css/main.8f3ee199.chunk.css.map",
+    "static/js/2.6f4ac67d.chunk.js.LICENSE.txt": "/jose827corrza/static/js/2.6f4ac67d.chunk.js.LICENSE.txt",
+    "static/media/electricidad.ac818588.jpg": "/jose827corrza/static/media/electricidad.ac818588.jpg",
+    "static/media/investigacion.5fcc9088.jpg": "/jose827corrza/static/media/investigacion.5fcc9088.jpg",
+    "static/media/rasp.a5266b86.jpg": "/jose827corrza/static/media/rasp.a5266b86.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26d1997f.js",
+    "static/css/2.4f5f7126.chunk.css",
+    "static/js/2.6f4ac67d.chunk.js",
+    "static/css/main.8f3ee199.chunk.css",
+    "static/js/main.cd6e5c02.chunk.js"
+  ]
+}
