@@ -7,24 +7,24 @@ import electricidad from '../assets/electricidad.jpg'
 const cards = [
     {
         id: 1,
-        title: 'Desarrollo',
+        title: 'Aplicaciones',
         image: rasp,
         url: "https://github.com/jose827corrza",
-        texto: 'The develop of new technologies on different systems such as, Arduino, Raspberry, Windows and Linux. Starts from the simple sensor reading up to the complete implementation of few actuators and sensors to automate an entire system'
+        texto: 'El desarrollo de nuevas habilidades en tecnologias tales como Arduino, Raspberry, Windows, Linux, Android y Cloud computing'
     },
     {
         id: 2,
         title: 'Linkedln',
         image: electricidad,
         url: "https://www.linkedin.com/in/jose-daniel-corredor/",
-        texto: "My personal space, where you can find my education, preofessional experience and certifications, you cand contact with me through this way."
+        texto: "Mi espacio personal, donde puedes encontrar mi formacion academica, experiencia profesional y certificaciones"
     },
     {
         id: 3,
         title: 'Investigacion',
         image: investigacion,
         url: "https://www.google.com.co/?gfe_rd=cr&ei=PuOxU9uaA5fBgATVjoHoAQ&gws_rd=ssl",
-        texto: "Here you can watch the implementation of the new technologies, giving them a practical use where these generate a big impact, specially the implementation of an AI able to make a forecast that is use to prepare an automatized harvesting system"
+        texto: "Mi aporte en el campo investigativo, el cual haciendo uso de una red neuronal desarrollada en Python y un sistema automatizado  se reduce el uso de agua potable en una vivienda en la ciudad de Bogotá"
     }
 ]
 function Cards() {

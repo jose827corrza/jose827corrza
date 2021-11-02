@@ -1,5 +1,6 @@
 import React from 'react'
 import './Card.css'
+import { Link } from 'react-router-dom';
 
 
 function Card({ title, imageSource, url, text }) {
@@ -14,7 +15,7 @@ function Card({ title, imageSource, url, text }) {
                     {
                         text
                     }</p>
-                <a href={url} className="btn btn-outline-secondary rounded-0" target="_blank" rel="noreferrer">Go to...</a>
+                <Link to={"/Aplicaciones"} className="btn btn-outline-secondary rounded-0"  rel="noreferrer">Ver mas!</Link>
             </div>
         </div>
     )
