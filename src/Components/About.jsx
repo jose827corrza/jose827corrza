@@ -24,7 +24,7 @@ function About() {
                     </div>
                     <div className="col-md-6">
                         <h3>
-                            Ingeniero Electromecánico - Desarrollador de Software
+                            Ingeniero Electromecánico - Desarrollador de Software Fullstack
                         </h3>
                         <p>
                             Estudiante de último ciclo de MisionTic 2022, con profundización en desarrollo web,
